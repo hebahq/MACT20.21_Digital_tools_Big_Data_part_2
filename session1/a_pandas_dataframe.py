@@ -28,7 +28,7 @@ print('This is how a data frame looks like:')
 print(a_df.head())
 
 # Using the following list, we will create a subset to explore summary statistics
-countries = ('Spain', 'France', 'Colombia', 'United Kingdom')
+countries = ('Spain', 'Jordan', 'Costa Rica', 'Poland')
 
 # To understand the logics, we will do the task with a single country
 name = [countries[0]]
